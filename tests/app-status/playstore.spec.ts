@@ -30,12 +30,12 @@ const APPS = [
   {
     "name": "Auto eVantage — Auto eVantage (Play Store)",
     "store": "play",
-    "id": "https://play.google.com/store/apps/details?id=com.autoevantage"
+    "id": "com.autoevantage"
   },
   {
     "name": "Auto eVantage — Auto eVantage (App Store)",
     "store": "app",
-    "id": "https://apps.apple.com/us/app/id6747385992"
+    "id": "id6747385992"
   },
   {
     "name": "Spark me — Spark Me (Play Store)",
@@ -50,17 +50,17 @@ const APPS = [
   {
     "name": "SMC — SMC (Play Store)",
     "store": "play",
-    "id": "https://play.google.com/store/apps/details?id=com.smclips"
+    "id": "com.smclips"
   },
   {
     "name": "TEST PROJECT — WhatsApp (Play Store)",
     "store": "play",
-    "id": "https://play.google.com/store/apps/details?id=com.whatsapp"
+    "id": "com.whatsapp"
   },
   {
     "name": "TEST PROJECT — WhatsApp (App Store)",
     "store": "app",
-    "id": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997"
+    "id": "id310633997"
   }
 ];
 
