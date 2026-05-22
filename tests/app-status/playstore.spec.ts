@@ -48,7 +48,7 @@ const APPS = [
     "id": "id1578660405"
   },
   {
-    "name": "SMC — SMC (Play Store)",
+    "name": "SMC — Send Movie Clips (Play Store)",
     "store": "play",
     "id": "com.smclips"
   }
