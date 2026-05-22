@@ -53,12 +53,12 @@ const APPS = [
     "id": "com.smclips"
   },
   {
-    "name": "TEST PROJECT — WhatsApp (Play Store)",
+    "name": "TEST PROJECT — WhatsApp Messanger (Play Store)",
     "store": "play",
     "id": "com.whatsapp"
   },
   {
-    "name": "TEST PROJECT — WhatsApp (App Store)",
+    "name": "TEST PROJECT — WhatsApp Messanger (App Store)",
     "store": "app",
     "id": "id31063366666"
   }
