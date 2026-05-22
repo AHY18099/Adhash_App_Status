@@ -51,16 +51,6 @@ const APPS = [
     "name": "SMC — SMC (Play Store)",
     "store": "play",
     "id": "com.smclips"
-  },
-  {
-    "name": "TEST PROJECT — WhatsApp Messenger (Play Store)",
-    "store": "play",
-    "id": "com.whatsapp"
-  },
-  {
-    "name": "TEST PROJECT — WhatsApp Messenger (App Store)",
-    "store": "app",
-    "id": "id31063366666"
   }
 ];
 
