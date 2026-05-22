@@ -20,7 +20,7 @@ const APPS = [
   {
     "name": "Algomax — AlgoMax (App Store)",
     "store": "app",
-    "id": "id6498886667"
+    "id": "https://apps.apple.com/in/app/algomax/id6498886667"
   },
   {
     "name": "AutoChecker — AutoChecker (Play Store)",
@@ -60,7 +60,7 @@ const APPS = [
   {
     "name": "TEST PROJECT — WhatsApp (App Store)",
     "store": "app",
-    "id": "id310633997"
+    "id": "id31063366666"
   }
 ];
 
