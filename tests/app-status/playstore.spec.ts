@@ -51,6 +51,11 @@ const APPS = [
     "name": "SMC — Send Movie Clips (Play Store)",
     "store": "play",
     "id": "com.smclips"
+  },
+  {
+    "name": "SMC — Send Movie Clips (App Store)",
+    "store": "app",
+    "id": "https://apps.apple.com/th/app/send-movie-clips/id6760453539"
   }
 ];
 
